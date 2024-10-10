@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRevisionFinder", "TestRevisionFinder\TestRevisionFinder.csproj", "{608C7821-1846-4815-A365-79022BEBF1DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRevisionFinderTests", "TestRevisionFinderTests\TestRevisionFinderTests.csproj", "{E3272D4D-BF47-4362-A90B-7BB21143DA04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevisionFinderRandomTester", "RevisionFinderRandomTester\RevisionFinderRandomTester.csproj", "{D3B57CE7-D5F5-4510-B6C1-3446F70508EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608C7821-1846-4815-A365-79022BEBF1DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608C7821-1846-4815-A365-79022BEBF1DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608C7821-1846-4815-A365-79022BEBF1DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608C7821-1846-4815-A365-79022BEBF1DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3272D4D-BF47-4362-A90B-7BB21143DA04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3272D4D-BF47-4362-A90B-7BB21143DA04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3272D4D-BF47-4362-A90B-7BB21143DA04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3272D4D-BF47-4362-A90B-7BB21143DA04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B57CE7-D5F5-4510-B6C1-3446F70508EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B57CE7-D5F5-4510-B6C1-3446F70508EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B57CE7-D5F5-4510-B6C1-3446F70508EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B57CE7-D5F5-4510-B6C1-3446F70508EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
